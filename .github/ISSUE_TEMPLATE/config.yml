@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Payment or account help
+    url: mailto:support@echolens.app
+    about: Time not added, sign-in problems, refunds — email us with your username (never your password).
+  - name: Security problem
+    url: https://github.com/YOUR-USERNAME/echolens-download/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately.

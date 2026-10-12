@@ -1,0 +1,53 @@
+name: Bug report
+description: Something in the EchoLens app doesn't work
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Please **don't** post your password, email address or payment details here — this page is public.
+  - type: input
+    id: version
+    attributes:
+      label: EchoLens version
+      description: Settings → About (e.g. 2.1.0)
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: Settings → System → About (e.g. Windows 11 24H2, build 26200)
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: What is it about?
+      options:
+        - EchoLens Camera not listed / no picture in other apps
+        - AI video quality or stutter
+        - Installing / updating
+        - Account or sign-in
+        - Buying time
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Which app were you using EchoLens Camera in?
+      placeholder: Zoom, WhatsApp, Teams, Meet, OBS…
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics (camera problems)
+      description: Start menu → **EchoLens Camera Diagnostics**, then paste the "Self-test" part of the report on your Desktop.
+      render: text
