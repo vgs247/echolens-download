@@ -138,7 +138,7 @@ Settings → Apps → Installed apps → **EchoLens** → Uninstall. This also r
 
 - Your real webcam is only used as the input to the AI. It's never sent to the apps you call with.
 - Your photo is uploaded only to generate the AI video during your session.
-- Read the full [Privacy policy](https://YOUR-WEBSITE/privacy) and [Terms](https://YOUR-WEBSITE/terms).
+
 - Use EchoLens responsibly: don't impersonate real people without their consent or use it to mislead or defraud anyone.
 
 ## Support
