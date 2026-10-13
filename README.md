@@ -7,12 +7,13 @@
 **Be anyone on camera.**
 An AI camera for Windows. Upload a photo, start the AI, and appear as that person in Zoom, WhatsApp, Teams, Google Meet and any other app that uses a webcam.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows%2011-7C5CFF?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/YOUR-USERNAME/echolens-download/releases/latest/download/EchoLensSetup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%2011-7C5CFF?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/vgs247/echolens-download/releases/download/v2.1.0/EchoLensSetup-2.1.0.exe)
 
-[![Latest version](https://img.shields.io/github/v/release/YOUR-USERNAME/echolens-download?label=version&color=00D4FF)](https://github.com/YOUR-USERNAME/echolens-download/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/echolens-download/total?color=22C55E)](https://github.com/YOUR-USERNAME/echolens-download/releases)
+[![Latest version](https://img.shields.io/github/v/release/YOUR-USERNAME/echolens-download?label=version&color=00D4FF)](https://github.com/vgs247/echolens-download/releases/tag/v2.1.0
+)
+[![Downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/echolens-download/total?color=22C55E)](https://github.com/vgs247/echolens-download/releases/tag/v2.1.0)
 
-[Website](https://YOUR-WEBSITE) · [Install guide](#install) · [Troubleshooting](#troubleshooting) · [Support](#support)
+[Website](https://echolens-eo3ptzk25-seas1.vercel.app/) · [Install guide](#install) · [Troubleshooting](#troubleshooting) · [Support](#support)
 
 <img src="docs/images/screenshot-app.png" alt="The EchoLens app" width="820">
 
@@ -39,7 +40,7 @@ An AI camera for Windows. Upload a photo, start the AI, and appear as that perso
 
 ## Install
 
-1. **Download** [`EchoLensSetup.exe`](https://github.com/YOUR-USERNAME/echolens-download/releases/latest/download/EchoLensSetup.exe) (always the latest version).
+1. **Download** [`EchoLensSetup.exe`](https://github.com/vgs247/echolens-download/releases/download/v2.1.0/EchoLensSetup-2.1.0.exe) (always the latest version).
 2. **Open it.** Windows may show a blue box, **"Windows protected your PC"**. This happens because EchoLens is new and not yet code-signed. Click **More info**, then **Run anyway**.
 
    <img src="docs/images/smartscreen.png" alt="Windows protected your PC → More info → Run anyway" width="520">
@@ -48,7 +49,7 @@ An AI camera for Windows. Upload a photo, start the AI, and appear as that perso
 4. Follow the steps and click **Finish**. EchoLens opens.
 5. **Restart your PC** if Zoom or another app doesn't list *EchoLens Camera* yet.
 
-> **Is it safe?** Only download EchoLens from this page or from our website. To check that your file wasn't changed, compare its fingerprint with the one in the [release notes](https://github.com/YOUR-USERNAME/echolens-download/releases/latest). See [Verify your download](#verify-your-download).
+> **Is it safe?** Only download EchoLens from this page or from our website. To check that your file wasn't changed, compare its fingerprint with the one in the [release notes](https://github.com/vgs247/echolens-download/releases). See [Verify your download](#verify-your-download).
 >
 > **Your antivirus blocked it?** Don't turn your antivirus off. Open your antivirus, find EchoLens under *Quarantine* or *Protection history*, and choose **Restore** or **Allow**. We submit every version to Microsoft for checking, so warnings usually go away within a few days of a release.
 
